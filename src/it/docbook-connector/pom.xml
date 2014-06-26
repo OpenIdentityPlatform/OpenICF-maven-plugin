@@ -32,7 +32,6 @@
         <groupId>org.forgerock.openicf.connectors</groupId>
         <artifactId>connectors-parent</artifactId>
         <version>@frameworkVersion@</version>
-        <!--<version>1.4.0.0-SNAPSHOT</version>-->
     </parent>
     <groupId>org.forgerock.openicf.connectors</groupId>
     <artifactId>docbook-connector</artifactId>
