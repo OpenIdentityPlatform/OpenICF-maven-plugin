@@ -24,7 +24,7 @@
 
 assert new File( basedir, 'target/openicf-docbkx' ).exists();
 assert new File( basedir, 'target/docbkx/pdf/index.pdf' ).exists();
-content = new File( basedir, 'target/docbkx/html/docbook-connector-1.4.0.0-RC2/index.html' ).text;
+content = new File( basedir, 'target/docbkx/html/docbook-connector-1.4.0.0/index.html' ).text;
 
 assert content.contains( '"connectorName" : "org.forgerock.openicf.connectors.docbook.DocBookConnector"' );
 
