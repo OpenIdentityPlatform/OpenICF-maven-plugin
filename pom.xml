@@ -32,7 +32,7 @@
     </parent>
     <groupId>org.forgerock.maven.plugins</groupId>
     <artifactId>openicf-maven-plugin</artifactId>
-    <version>1.2.0</version>
+    <version>1.2.1</version>
     <packaging>maven-plugin</packaging>
     <name>OpenICF Build Helper Plugin</name>
     <description>
@@ -41,11 +41,11 @@
     <inceptionYear>2012</inceptionYear>
     <url>http://openicf.forgerock.org</url>
     <scm>
-        <connection>scm:svn:https://svn.forgerock.org/openicf/tags/openicf-maven-plugin-1.2.0</connection>
+        <connection>scm:svn:https://svn.forgerock.org/openicf/tags/openicf-maven-plugin-1.2.1</connection>
         <developerConnection>
-            scm:svn:https://svn.forgerock.org/openicf/tags/openicf-maven-plugin-1.2.0
+            scm:svn:https://svn.forgerock.org/openicf/tags/openicf-maven-plugin-1.2.1
         </developerConnection>
-        <url>http://sources.forgerock.org/browse/openicf/tags/openicf-maven-plugin-1.2.0</url>
+        <url>http://sources.forgerock.org/browse/openicf/tags/openicf-maven-plugin-1.2.1</url>
     </scm>
     <distributionManagement>
         <site>
